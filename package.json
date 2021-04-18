@@ -64,6 +64,7 @@
     "jsdom": "^16.4.0",
     "kcd-scripts": "^6.2.4",
     "plotly.js-dist": "^1.54.7",
+    "puppeteer": "^8.0.0",
     "semantic-release": "^17.1.1",
     "snyk": "^1.377.1"
   },
