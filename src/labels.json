@@ -360,6 +360,14 @@
     "category": "null"
   },
   {
+    "label": "coach",
+    "category": "mentoring"
+  },
+  {
+    "label": "coaching",
+    "category": "mentoring"
+  },
+  {
     "label": "color",
     "category": "design"
   },
@@ -1182,6 +1190,14 @@
   {
     "label": "meetup",
     "category": "eventOrganizing"
+  },
+  {
+    "label": "mentor",
+    "category": "mentoring"
+  },
+  {
+    "label": "mentoring",
+    "category": "mentoring"
   },
   {
     "label": "mishap",
