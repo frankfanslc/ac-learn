@@ -292,6 +292,10 @@
     "category": "bug"
   },
   {
+    "label": "browser issue",
+    "category": "bug"
+  },
+  {
     "label": "browser: ie",
     "category": "platform"
   },
@@ -632,6 +636,10 @@
     "category": "maintenance"
   },
   {
+    "label": "dependency-update",
+    "category": "maintenance"
+  },
+  {
     "label": "deployment",
     "category": "infra"
   },
@@ -701,6 +709,10 @@
   },
   {
     "label": "documentation :book:",
+    "category": "doc"
+  },
+  {
+    "label": "documentation :orange_book:",
     "category": "doc"
   },
   {
@@ -1708,6 +1720,14 @@
     "category": "question"
   },
   {
+    "label": "question :question:",
+    "category": "question"
+  },
+  {
+    "label": "question :raising_hand:",
+    "category": "question"
+  },
+  {
     "label": "raster image",
     "category": "design"
   },
@@ -2082,6 +2102,10 @@
   {
     "label": "teaching",
     "category": "tutorial"
+  },
+  {
+    "label": "tech-debt",
+    "category": "maintenance"
   },
   {
     "label": "technical debt",
