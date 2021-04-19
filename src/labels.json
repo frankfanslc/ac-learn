@@ -140,6 +140,10 @@
     "category": "null"
   },
   {
+    "label": "academia",
+    "category": "research"
+  },
+  {
     "label": "acceptance testing",
     "category": "test"
   },
@@ -864,6 +868,10 @@
     "category": "doc"
   },
   {
+    "label": "doctorate",
+    "category": "research"
+  },
+  {
     "label": "documentation",
     "category": "doc"
   },
@@ -1500,6 +1508,10 @@
     "category": "platform"
   },
   {
+    "label": "literature review",
+    "category": "research"
+  },
+  {
     "label": "logo",
     "category": "design"
   },
@@ -1752,12 +1764,20 @@
     "category": "financial"
   },
   {
+    "label": "peer-review",
+    "category": "review"
+  },
+  {
     "label": "pentesting",
     "category": "security"
   },
   {
     "label": "performance",
     "category": "maintenance"
+  },
+  {
+    "label": "phd",
+    "category": "research"
   },
   {
     "label": "phone",
@@ -2050,6 +2070,18 @@
   {
     "label": "requires upstream change",
     "category": "code"
+  },
+  {
+    "label": "research",
+    "category": "research"
+  },
+  {
+    "label": "research opportunity",
+    "category": "research"
+  },
+  {
+    "label": "researching",
+    "category": "research"
   },
   {
     "label": "resolution: support redirect",
